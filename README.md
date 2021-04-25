@@ -3,4 +3,4 @@
 Program untuk membuat bentuk diamond/belah ketupat dengan jumlah ganjil yang diinput oleh pengguna. Program dapat dijalankan secara berulang, dan cukup menekan enter untuk mengakhiri program
 
 <img src="image/diamond.png" widht="250" height="298">
-[Link](https://github.com/hafizadit/Iseng/blob/main/Diamond.py)
+[I'm an inline-style link](https://github.com/hafizadit/Iseng/blob/main/Diamond.py)
