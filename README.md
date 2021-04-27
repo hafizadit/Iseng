@@ -171,3 +171,38 @@ plt.show()
 ```
 
 </details>
+
+## 3. Kode Spam
+a) Spam dengan kata
+<details>
+<summary>Code</summary>
+ 
+ ```python
+ import pyautogui, time
+
+time.sleep(5)
+
+x = "ini spam"
+
+for i in range(5):
+    pyautogui.typewrite(x)
+    pyautogui.press("enter")
+ ```
+  </details>
+  
+b) Spam dengan lirik
+<details>
+<summary>Code</summary>
+ 
+ ```python
+ import pyautogui, time
+
+time.sleep(5)
+
+baca = open("lirik.txt","r")
+
+for i in baca:
+    pyautogui.typewrite(i)
+    pyautogui.press("enter")
+ ```
+  </details>
