@@ -174,6 +174,8 @@ plt.show()
 
 ## 3. Kode Spam
 a) Spam dengan kata
+ 
+<img src="spam/Kata2.gif" widht="270" height="270">
 <details>
 <summary>Code</summary>
  
@@ -191,6 +193,8 @@ for i in range(5):
   </details>
   
 b) Spam dengan lirik
+ 
+<img src="spam/Lirik.gif" widht="270" height="270">
 <details>
 <summary>Code</summary>
  
