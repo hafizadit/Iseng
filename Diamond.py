@@ -1,7 +1,7 @@
 import math
 import sys
 from rich.console import Console
-
+#BLBALBALBLABLA
 console = Console()
 
 print("")
